@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Home
+        </title>
+        <style>
+            body{
+                text-align: center;
+            }
+            #container{
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                font-weight: 15px;
+                width: 500px;
+                height: 300px;
+                padding: 20px;
+                border: 2px solid black;
+                background-image: linear-gradient(to right, purple , yellow);
+                border-radius: 15px;
+            }
+            button{
+                width: 300px;
+                border: 2px solid black;
+                padding: 10px;
+                font-size: 15px;
+                font-weight: bolder;
+                border-radius: 10px;
+                background-image: linear-gradient(to top,rgb(255, 0, 234),purple);
+
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <h1>Python POC</h1>
+        <h3>Select from options below:</h3>
+        <a href="http://127.0.0.1:5000/modelcalc?protection=1"><button>Protection 1</button></a>
+        <br>
+        <br>
+        <a href="http://127.0.0.1:5000/modelcalc?protection=2"><button>Protection 2</button></a>
+        </div>
+    </body>
+</html>

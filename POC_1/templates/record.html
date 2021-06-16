@@ -1,0 +1,19 @@
+<h2 style="margin: 20px; font-size: 40px;">{{protection}}</h2>
+<table style="border: 1px solid #000000; margin-left: 20px;">
+    <thead>
+        <tr>
+            {% for col in colnames %}
+            <th style="color:black; padding: 4px; background-color: yellow;">{{ col }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for record in records %}
+        <tr>
+            {% for col in colnames %}
+            <td style="padding: 4px; border: 1px solid black;">{{ record[col] }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

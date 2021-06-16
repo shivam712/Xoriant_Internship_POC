@@ -1,0 +1,1509 @@
+{
+  "Company_Name": "WIPRO",
+  "Largest_1day_stock_drop_price": 262.75,
+  "Largest_1day_stock_drop_date": "15-07-2020",
+  "Largest_1month_stock_drop_price": 374.0,
+  "Largest_1month_stock_drop_date": "09-10-2020",
+  "Stock_details": [
+    {
+      "stock_date": 1588204800000,
+      "stock_price": 190.95,
+      "drop_ratio_1_day": 0.0,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1588550400000,
+      "stock_price": 190.05,
+      "drop_ratio_1_day": -0.4713275727,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1588636800000,
+      "stock_price": 184.2,
+      "drop_ratio_1_day": -3.0781373323,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1588723200000,
+      "stock_price": 187.05,
+      "drop_ratio_1_day": 1.5472312704,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1588809600000,
+      "stock_price": 184.1,
+      "drop_ratio_1_day": -1.5771184175,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1588896000000,
+      "stock_price": 184.0,
+      "drop_ratio_1_day": -0.0543183053,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589155200000,
+      "stock_price": 184.7,
+      "drop_ratio_1_day": 0.3804347826,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589241600000,
+      "stock_price": 187.05,
+      "drop_ratio_1_day": 1.2723335138,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589328000000,
+      "stock_price": 189.7,
+      "drop_ratio_1_day": 1.4167334937,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589414400000,
+      "stock_price": 186.0,
+      "drop_ratio_1_day": -1.9504480759,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589500800000,
+      "stock_price": 183.8,
+      "drop_ratio_1_day": -1.1827956989,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589760000000,
+      "stock_price": 182.2,
+      "drop_ratio_1_day": -0.8705114255,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589846400000,
+      "stock_price": 184.4,
+      "drop_ratio_1_day": 1.2074643249,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1589932800000,
+      "stock_price": 184.95,
+      "drop_ratio_1_day": 0.2982646421,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590019200000,
+      "stock_price": 189.1,
+      "drop_ratio_1_day": 2.2438496891,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590105600000,
+      "stock_price": 189.0,
+      "drop_ratio_1_day": -0.052882073,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590451200000,
+      "stock_price": 188.8,
+      "drop_ratio_1_day": -0.1058201058,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590537600000,
+      "stock_price": 201.25,
+      "drop_ratio_1_day": 6.594279661,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590624000000,
+      "stock_price": 199.35,
+      "drop_ratio_1_day": -0.9440993789,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590710400000,
+      "stock_price": 212.8,
+      "drop_ratio_1_day": 6.7469275144,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1590969600000,
+      "stock_price": 215.05,
+      "drop_ratio_1_day": 1.0573308271,
+      "drop_ratio_1_month": 12.6211050013
+    },
+    {
+      "stock_date": 1591056000000,
+      "stock_price": 215.85,
+      "drop_ratio_1_day": 0.3720065101,
+      "drop_ratio_1_month": 13.0400628437
+    },
+    {
+      "stock_date": 1591142400000,
+      "stock_price": 211.35,
+      "drop_ratio_1_day": -2.084781098,
+      "drop_ratio_1_month": 10.6834249804
+    },
+    {
+      "stock_date": 1591228800000,
+      "stock_price": 216.25,
+      "drop_ratio_1_day": 2.318429146,
+      "drop_ratio_1_month": 13.78584583
+    },
+    {
+      "stock_date": 1591315200000,
+      "stock_price": 218.75,
+      "drop_ratio_1_day": 1.1560693642,
+      "drop_ratio_1_month": 18.7567861021
+    },
+    {
+      "stock_date": 1591574400000,
+      "stock_price": 226.45,
+      "drop_ratio_1_day": 3.52,
+      "drop_ratio_1_month": 23.0706521739
+    },
+    {
+      "stock_date": 1591660800000,
+      "stock_price": 218.35,
+      "drop_ratio_1_day": -3.5769485538,
+      "drop_ratio_1_month": 18.6684782609
+    },
+    {
+      "stock_date": 1591747200000,
+      "stock_price": 217.0,
+      "drop_ratio_1_day": -0.6182734142,
+      "drop_ratio_1_month": 17.9347826087
+    },
+    {
+      "stock_date": 1591833600000,
+      "stock_price": 212.9,
+      "drop_ratio_1_day": -1.8894009217,
+      "drop_ratio_1_month": 15.2680021657
+    },
+    {
+      "stock_date": 1591920000000,
+      "stock_price": 207.9,
+      "drop_ratio_1_day": -2.3485204321,
+      "drop_ratio_1_month": 11.1467522053
+    },
+    {
+      "stock_date": 1592179200000,
+      "stock_price": 213.8,
+      "drop_ratio_1_day": 2.8379028379,
+      "drop_ratio_1_month": 16.3220892274
+    },
+    {
+      "stock_date": 1592265600000,
+      "stock_price": 212.4,
+      "drop_ratio_1_day": -0.6548175865,
+      "drop_ratio_1_month": 15.5603917301
+    },
+    {
+      "stock_date": 1592352000000,
+      "stock_price": 217.8,
+      "drop_ratio_1_day": 2.5423728814,
+      "drop_ratio_1_month": 18.4983677911
+    },
+    {
+      "stock_date": 1592438400000,
+      "stock_price": 218.15,
+      "drop_ratio_1_day": 0.160697888,
+      "drop_ratio_1_month": 19.731064764
+    },
+    {
+      "stock_date": 1592524800000,
+      "stock_price": 222.05,
+      "drop_ratio_1_day": 1.7877607151,
+      "drop_ratio_1_month": 20.4175704989
+    },
+    {
+      "stock_date": 1592784000000,
+      "stock_price": 218.05,
+      "drop_ratio_1_day": -1.801396082,
+      "drop_ratio_1_month": 15.3703703704
+    },
+    {
+      "stock_date": 1592870400000,
+      "stock_price": 220.6,
+      "drop_ratio_1_day": 1.1694565467,
+      "drop_ratio_1_month": 16.7195767196
+    },
+    {
+      "stock_date": 1592956800000,
+      "stock_price": 218.2,
+      "drop_ratio_1_day": -1.0879419764,
+      "drop_ratio_1_month": 15.4497354497
+    },
+    {
+      "stock_date": 1593043200000,
+      "stock_price": 218.2,
+      "drop_ratio_1_day": 0.0,
+      "drop_ratio_1_month": 15.4497354497
+    },
+    {
+      "stock_date": 1593129600000,
+      "stock_price": 225.45,
+      "drop_ratio_1_day": 3.32263978,
+      "drop_ratio_1_month": 19.4120762712
+    },
+    {
+      "stock_date": 1593388800000,
+      "stock_price": 219.7,
+      "drop_ratio_1_day": -2.5504546463,
+      "drop_ratio_1_month": 3.242481203
+    },
+    {
+      "stock_date": 1593475200000,
+      "stock_price": 219.65,
+      "drop_ratio_1_day": -0.0227583068,
+      "drop_ratio_1_month": 3.2189849624
+    },
+    {
+      "stock_date": 1593561600000,
+      "stock_price": 219.05,
+      "drop_ratio_1_day": -0.2731618484,
+      "drop_ratio_1_month": 1.8600325506
+    },
+    {
+      "stock_date": 1593648000000,
+      "stock_price": 224.2,
+      "drop_ratio_1_day": 2.3510614015,
+      "drop_ratio_1_month": 3.8684271485
+    },
+    {
+      "stock_date": 1593734400000,
+      "stock_price": 224.8,
+      "drop_ratio_1_day": 0.267618198,
+      "drop_ratio_1_month": 6.3638514313
+    },
+    {
+      "stock_date": 1593993600000,
+      "stock_price": 222.65,
+      "drop_ratio_1_day": -0.956405694,
+      "drop_ratio_1_month": 1.7828571429
+    },
+    {
+      "stock_date": 1594080000000,
+      "stock_price": 224.9,
+      "drop_ratio_1_day": 1.0105546822,
+      "drop_ratio_1_month": 2.8114285714
+    },
+    {
+      "stock_date": 1594166400000,
+      "stock_price": 223.1,
+      "drop_ratio_1_day": -0.8003557137,
+      "drop_ratio_1_month": -1.4793552661
+    },
+    {
+      "stock_date": 1594252800000,
+      "stock_price": 221.6,
+      "drop_ratio_1_day": -0.6723442403,
+      "drop_ratio_1_month": 1.4884359973
+    },
+    {
+      "stock_date": 1594339200000,
+      "stock_price": 222.1,
+      "drop_ratio_1_day": 0.225631769,
+      "drop_ratio_1_month": 2.3502304147
+    },
+    {
+      "stock_date": 1594598400000,
+      "stock_price": 227.6,
+      "drop_ratio_1_day": 2.4763619991,
+      "drop_ratio_1_month": 9.4757094757
+    },
+    {
+      "stock_date": 1594684800000,
+      "stock_price": 225.0,
+      "drop_ratio_1_day": -1.1423550088,
+      "drop_ratio_1_month": 8.2251082251
+    },
+    {
+      "stock_date": 1594771200000,
+      "stock_price": 262.75,
+      "drop_ratio_1_day": 16.7777777778,
+      "drop_ratio_1_month": 22.8952291862
+    },
+    {
+      "stock_date": 1594857600000,
+      "stock_price": 261.9,
+      "drop_ratio_1_day": -0.3235014272,
+      "drop_ratio_1_month": 23.3050847458
+    },
+    {
+      "stock_date": 1594944000000,
+      "stock_price": 261.35,
+      "drop_ratio_1_day": -0.2100038183,
+      "drop_ratio_1_month": 19.9954086318
+    },
+    {
+      "stock_date": 1595203200000,
+      "stock_price": 270.8,
+      "drop_ratio_1_day": 3.6158408265,
+      "drop_ratio_1_month": 21.9545147489
+    },
+    {
+      "stock_date": 1595289600000,
+      "stock_price": 271.35,
+      "drop_ratio_1_day": 0.2031019202,
+      "drop_ratio_1_month": 22.2022067102
+    },
+    {
+      "stock_date": 1595376000000,
+      "stock_price": 266.0,
+      "drop_ratio_1_day": -1.9716233647,
+      "drop_ratio_1_month": 21.9903691814
+    },
+    {
+      "stock_date": 1595462400000,
+      "stock_price": 266.6,
+      "drop_ratio_1_day": 0.2255639098,
+      "drop_ratio_1_month": 20.8522212149
+    },
+    {
+      "stock_date": 1595548800000,
+      "stock_price": 270.55,
+      "drop_ratio_1_day": 1.4816204051,
+      "drop_ratio_1_month": 23.9917506874
+    },
+    {
+      "stock_date": 1595808000000,
+      "stock_price": 268.85,
+      "drop_ratio_1_day": -0.6283496581,
+      "drop_ratio_1_month": 19.2503881127
+    },
+    {
+      "stock_date": 1595894400000,
+      "stock_price": 275.45,
+      "drop_ratio_1_day": 2.4549005021,
+      "drop_ratio_1_month": 22.1778664892
+    },
+    {
+      "stock_date": 1595980800000,
+      "stock_price": 277.0,
+      "drop_ratio_1_day": 0.5627155564,
+      "drop_ratio_1_month": 26.0810195721
+    },
+    {
+      "stock_date": 1596067200000,
+      "stock_price": 284.1,
+      "drop_ratio_1_day": 2.5631768953,
+      "drop_ratio_1_month": 29.3421352151
+    },
+    {
+      "stock_date": 1596153600000,
+      "stock_price": 280.95,
+      "drop_ratio_1_day": -1.1087645195,
+      "drop_ratio_1_month": 27.908035511
+    },
+    {
+      "stock_date": 1596412800000,
+      "stock_price": 281.55,
+      "drop_ratio_1_day": 0.2135611319,
+      "drop_ratio_1_month": 25.2446619217
+    },
+    {
+      "stock_date": 1596499200000,
+      "stock_price": 281.05,
+      "drop_ratio_1_day": -0.1775883502,
+      "drop_ratio_1_month": 25.0222419929
+    },
+    {
+      "stock_date": 1596585600000,
+      "stock_price": 278.2,
+      "drop_ratio_1_day": -1.0140544387,
+      "drop_ratio_1_month": 23.7544483986
+    },
+    {
+      "stock_date": 1596672000000,
+      "stock_price": 279.65,
+      "drop_ratio_1_day": 0.5212077642,
+      "drop_ratio_1_month": 25.6007186167
+    },
+    {
+      "stock_date": 1596758400000,
+      "stock_price": 277.4,
+      "drop_ratio_1_day": -0.80457715,
+      "drop_ratio_1_month": 23.3437083148
+    },
+    {
+      "stock_date": 1597017600000,
+      "stock_price": 277.4,
+      "drop_ratio_1_day": 0.0,
+      "drop_ratio_1_month": 24.8986942819
+    },
+    {
+      "stock_date": 1597104000000,
+      "stock_price": 279.65,
+      "drop_ratio_1_day": 0.8111031002,
+      "drop_ratio_1_month": 25.9117514633
+    },
+    {
+      "stock_date": 1597190400000,
+      "stock_price": 276.2,
+      "drop_ratio_1_day": -1.2336849633,
+      "drop_ratio_1_month": 24.3583971184
+    },
+    {
+      "stock_date": 1597276800000,
+      "stock_price": 277.0,
+      "drop_ratio_1_day": 0.2896451846,
+      "drop_ratio_1_month": 21.704745167
+    },
+    {
+      "stock_date": 1597363200000,
+      "stock_price": 276.5,
+      "drop_ratio_1_day": -0.1805054152,
+      "drop_ratio_1_month": 22.8888888889
+    },
+    {
+      "stock_date": 1597622400000,
+      "stock_price": 281.95,
+      "drop_ratio_1_day": 1.9710669078,
+      "drop_ratio_1_month": 7.8821503731
+    },
+    {
+      "stock_date": 1597708800000,
+      "stock_price": 282.7,
+      "drop_ratio_1_day": 0.2660046107,
+      "drop_ratio_1_month": 8.1691218672
+    },
+    {
+      "stock_date": 1597795200000,
+      "stock_price": 279.75,
+      "drop_ratio_1_day": -1.0435090202,
+      "drop_ratio_1_month": 7.0403673235
+    },
+    {
+      "stock_date": 1597881600000,
+      "stock_price": 274.2,
+      "drop_ratio_1_day": -1.9839142091,
+      "drop_ratio_1_month": 1.2555391433
+    },
+    {
+      "stock_date": 1597968000000,
+      "stock_price": 273.35,
+      "drop_ratio_1_day": -0.3099927061,
+      "drop_ratio_1_month": 0.7370554634
+    },
+    {
+      "stock_date": 1598227200000,
+      "stock_price": 272.7,
+      "drop_ratio_1_day": -0.2377903786,
+      "drop_ratio_1_month": 0.7946775088
+    },
+    {
+      "stock_date": 1598313600000,
+      "stock_price": 269.95,
+      "drop_ratio_1_day": -1.0084341768,
+      "drop_ratio_1_month": -0.2217704676
+    },
+    {
+      "stock_date": 1598400000000,
+      "stock_price": 272.05,
+      "drop_ratio_1_day": 0.7779218374,
+      "drop_ratio_1_month": 0.5544261689
+    },
+    {
+      "stock_date": 1598486400000,
+      "stock_price": 272.35,
+      "drop_ratio_1_day": 0.1102738467,
+      "drop_ratio_1_month": 1.3018411754
+    },
+    {
+      "stock_date": 1598572800000,
+      "stock_price": 272.05,
+      "drop_ratio_1_day": -0.1101523775,
+      "drop_ratio_1_month": -1.2343438011
+    },
+    {
+      "stock_date": 1598832000000,
+      "stock_price": 271.3,
+      "drop_ratio_1_day": -0.2756846168,
+      "drop_ratio_1_month": -3.434774871
+    },
+    {
+      "stock_date": 1598918400000,
+      "stock_price": 271.6,
+      "drop_ratio_1_day": 0.1105786952,
+      "drop_ratio_1_month": -3.327994305
+    },
+    {
+      "stock_date": 1599004800000,
+      "stock_price": 273.7,
+      "drop_ratio_1_day": 0.7731958763,
+      "drop_ratio_1_month": -2.5805303435
+    },
+    {
+      "stock_date": 1599091200000,
+      "stock_price": 282.85,
+      "drop_ratio_1_day": 3.343076361,
+      "drop_ratio_1_month": 0.4617297105
+    },
+    {
+      "stock_date": 1599177600000,
+      "stock_price": 276.0,
+      "drop_ratio_1_day": -2.4217783277,
+      "drop_ratio_1_month": -1.7968333037
+    },
+    {
+      "stock_date": 1599436800000,
+      "stock_price": 278.75,
+      "drop_ratio_1_day": 0.9963768116,
+      "drop_ratio_1_month": 0.4866618601
+    },
+    {
+      "stock_date": 1599523200000,
+      "stock_price": 282.55,
+      "drop_ratio_1_day": 1.3632286996,
+      "drop_ratio_1_month": 1.8565248738
+    },
+    {
+      "stock_date": 1599609600000,
+      "stock_price": 282.85,
+      "drop_ratio_1_day": 0.1061758981,
+      "drop_ratio_1_month": 1.9646719539
+    },
+    {
+      "stock_date": 1599696000000,
+      "stock_price": 284.55,
+      "drop_ratio_1_day": 0.6010252784,
+      "drop_ratio_1_month": 2.5775054074
+    },
+    {
+      "stock_date": 1599782400000,
+      "stock_price": 293.3,
+      "drop_ratio_1_day": 3.0750307503,
+      "drop_ratio_1_month": 4.8811013767
+    },
+    {
+      "stock_date": 1600041600000,
+      "stock_price": 307.2,
+      "drop_ratio_1_day": 4.7391749062,
+      "drop_ratio_1_month": 11.103074141
+    },
+    {
+      "stock_date": 1600128000000,
+      "stock_price": 307.35,
+      "drop_ratio_1_day": 0.048828125,
+      "drop_ratio_1_month": 11.157323689
+    },
+    {
+      "stock_date": 1600214400000,
+      "stock_price": 312.15,
+      "drop_ratio_1_day": 1.5617374329,
+      "drop_ratio_1_month": 12.8933092224
+    },
+    {
+      "stock_date": 1600300800000,
+      "stock_price": 311.7,
+      "drop_ratio_1_day": -0.1441614608,
+      "drop_ratio_1_month": 10.5515162263
+    },
+    {
+      "stock_date": 1600387200000,
+      "stock_price": 316.5,
+      "drop_ratio_1_day": 1.5399422522,
+      "drop_ratio_1_month": 11.956137248
+    },
+    {
+      "stock_date": 1600646400000,
+      "stock_price": 311.9,
+      "drop_ratio_1_day": -1.4533965245,
+      "drop_ratio_1_month": 14.1027986098
+    },
+    {
+      "stock_date": 1600732800000,
+      "stock_price": 312.25,
+      "drop_ratio_1_day": 0.1122154537,
+      "drop_ratio_1_month": 14.230839583
+    },
+    {
+      "stock_date": 1600819200000,
+      "stock_price": 314.85,
+      "drop_ratio_1_day": 0.8326661329,
+      "drop_ratio_1_month": 15.1820010975
+    },
+    {
+      "stock_date": 1600905600000,
+      "stock_price": 304.7,
+      "drop_ratio_1_day": -3.2237573448,
+      "drop_ratio_1_month": 11.734506784
+    },
+    {
+      "stock_date": 1600992000000,
+      "stock_price": 313.9,
+      "drop_ratio_1_day": 3.0193633082,
+      "drop_ratio_1_month": 16.2807927394
+    },
+    {
+      "stock_date": 1601251200000,
+      "stock_price": 311.55,
+      "drop_ratio_1_day": -0.7486460656,
+      "drop_ratio_1_month": 14.519389818
+    },
+    {
+      "stock_date": 1601337600000,
+      "stock_price": 311.5,
+      "drop_ratio_1_day": -0.0160487883,
+      "drop_ratio_1_month": 14.5010108436
+    },
+    {
+      "stock_date": 1601424000000,
+      "stock_price": 313.55,
+      "drop_ratio_1_day": 0.658105939,
+      "drop_ratio_1_month": 15.2545487962
+    },
+    {
+      "stock_date": 1601510400000,
+      "stock_price": 313.05,
+      "drop_ratio_1_day": -0.1594642003,
+      "drop_ratio_1_month": 15.2614138439
+    },
+    {
+      "stock_date": 1601856000000,
+      "stock_price": 333.95,
+      "drop_ratio_1_day": 6.6762498004,
+      "drop_ratio_1_month": 20.9963768116
+    },
+    {
+      "stock_date": 1601942400000,
+      "stock_price": 330.05,
+      "drop_ratio_1_day": -1.1678394969,
+      "drop_ratio_1_month": 19.5833333333
+    },
+    {
+      "stock_date": 1602028800000,
+      "stock_price": 335.3,
+      "drop_ratio_1_day": 1.5906680806,
+      "drop_ratio_1_month": 20.2869955157
+    },
+    {
+      "stock_date": 1602115200000,
+      "stock_price": 359.45,
+      "drop_ratio_1_day": 7.2025052192,
+      "drop_ratio_1_month": 27.2164218722
+    },
+    {
+      "stock_date": 1602201600000,
+      "stock_price": 374.0,
+      "drop_ratio_1_day": 4.0478508833,
+      "drop_ratio_1_month": 32.2255612515
+    },
+    {
+      "stock_date": 1602460800000,
+      "stock_price": 377.5,
+      "drop_ratio_1_day": 0.935828877,
+      "drop_ratio_1_month": 28.7078077054
+    },
+    {
+      "stock_date": 1602547200000,
+      "stock_price": 375.95,
+      "drop_ratio_1_day": -0.4105960265,
+      "drop_ratio_1_month": 28.1793385612
+    },
+    {
+      "stock_date": 1602633600000,
+      "stock_price": 350.45,
+      "drop_ratio_1_day": -6.7828168639,
+      "drop_ratio_1_month": 14.0787760417
+    },
+    {
+      "stock_date": 1602720000000,
+      "stock_price": 341.6,
+      "drop_ratio_1_day": -2.5253245827,
+      "drop_ratio_1_month": 11.1436473076
+    },
+    {
+      "stock_date": 1602806400000,
+      "stock_price": 339.65,
+      "drop_ratio_1_day": -0.5708430913,
+      "drop_ratio_1_month": 8.8098670511
+    },
+    {
+      "stock_date": 1603065600000,
+      "stock_price": 343.2,
+      "drop_ratio_1_day": 1.0451935816,
+      "drop_ratio_1_month": 8.4360189573
+    },
+    {
+      "stock_date": 1603152000000,
+      "stock_price": 346.75,
+      "drop_ratio_1_day": 1.0343822844,
+      "drop_ratio_1_month": 9.5576619273
+    },
+    {
+      "stock_date": 1603238400000,
+      "stock_price": 343.45,
+      "drop_ratio_1_day": -0.9516943043,
+      "drop_ratio_1_month": 10.1154216095
+    },
+    {
+      "stock_date": 1603324800000,
+      "stock_price": 344.45,
+      "drop_ratio_1_day": 0.291163197,
+      "drop_ratio_1_month": 10.3122497998
+    },
+    {
+      "stock_date": 1603411200000,
+      "stock_price": 342.4,
+      "drop_ratio_1_day": -0.5951516911,
+      "drop_ratio_1_month": 8.7501985072
+    },
+    {
+      "stock_date": 1603670400000,
+      "stock_price": 339.8,
+      "drop_ratio_1_day": -0.7593457944,
+      "drop_ratio_1_month": 8.2510353616
+    },
+    {
+      "stock_date": 1603756800000,
+      "stock_price": 334.05,
+      "drop_ratio_1_day": -1.6921718658,
+      "drop_ratio_1_month": 6.4192417968
+    },
+    {
+      "stock_date": 1603843200000,
+      "stock_price": 335.65,
+      "drop_ratio_1_day": 0.478970214,
+      "drop_ratio_1_month": 7.7355159685
+    },
+    {
+      "stock_date": 1603929600000,
+      "stock_price": 337.45,
+      "drop_ratio_1_day": 0.5362729033,
+      "drop_ratio_1_month": 8.3306581059
+    },
+    {
+      "stock_date": 1604016000000,
+      "stock_price": 340.7,
+      "drop_ratio_1_day": 0.9631056453,
+      "drop_ratio_1_month": 8.6589060756
+    },
+    {
+      "stock_date": 1604275200000,
+      "stock_price": 334.8,
+      "drop_ratio_1_day": -1.7317287937,
+      "drop_ratio_1_month": 6.9477719214
+    },
+    {
+      "stock_date": 1604361600000,
+      "stock_price": 335.65,
+      "drop_ratio_1_day": 0.2538829152,
+      "drop_ratio_1_month": 7.2192940425
+    },
+    {
+      "stock_date": 1604448000000,
+      "stock_price": 342.95,
+      "drop_ratio_1_day": 2.1748845524,
+      "drop_ratio_1_month": 9.5511899058
+    },
+    {
+      "stock_date": 1604534400000,
+      "stock_price": 345.4,
+      "drop_ratio_1_day": 0.7143898527,
+      "drop_ratio_1_month": 3.4286569846
+    },
+    {
+      "stock_date": 1604620800000,
+      "stock_price": 345.75,
+      "drop_ratio_1_day": 0.1013317892,
+      "drop_ratio_1_month": 4.756855022
+    },
+    {
+      "stock_date": 1604880000000,
+      "stock_price": 351.95,
+      "drop_ratio_1_day": 1.7932031815,
+      "drop_ratio_1_month": -5.8957219251
+    },
+    {
+      "stock_date": 1604966400000,
+      "stock_price": 342.3,
+      "drop_ratio_1_day": -2.7418667424,
+      "drop_ratio_1_month": -8.4759358289
+    },
+    {
+      "stock_date": 1605052800000,
+      "stock_price": 346.75,
+      "drop_ratio_1_day": 1.3000292141,
+      "drop_ratio_1_month": -7.2860962567
+    },
+    {
+      "stock_date": 1605139200000,
+      "stock_price": 345.55,
+      "drop_ratio_1_day": -0.3460706561,
+      "drop_ratio_1_month": -8.4635761589
+    },
+    {
+      "stock_date": 1605225600000,
+      "stock_price": 344.15,
+      "drop_ratio_1_day": -0.4051512082,
+      "drop_ratio_1_month": -8.4585716186
+    },
+    {
+      "stock_date": 1605571200000,
+      "stock_price": 348.7,
+      "drop_ratio_1_day": 1.3220979224,
+      "drop_ratio_1_month": 2.6645075813
+    },
+    {
+      "stock_date": 1605657600000,
+      "stock_price": 345.3,
+      "drop_ratio_1_day": -0.9750501864,
+      "drop_ratio_1_month": 1.6634771088
+    },
+    {
+      "stock_date": 1605744000000,
+      "stock_price": 342.6,
+      "drop_ratio_1_day": -0.7819287576,
+      "drop_ratio_1_month": -0.1748251748
+    },
+    {
+      "stock_date": 1605830400000,
+      "stock_price": 346.3,
+      "drop_ratio_1_day": 1.0799766492,
+      "drop_ratio_1_month": -0.129776496
+    },
+    {
+      "stock_date": 1606089600000,
+      "stock_price": 355.85,
+      "drop_ratio_1_day": 2.7577245163,
+      "drop_ratio_1_month": 3.9281542056
+    },
+    {
+      "stock_date": 1606176000000,
+      "stock_price": 355.5,
+      "drop_ratio_1_day": -0.0983560489,
+      "drop_ratio_1_month": 3.8259345794
+    },
+    {
+      "stock_date": 1606262400000,
+      "stock_price": 350.0,
+      "drop_ratio_1_day": -1.547116737,
+      "drop_ratio_1_month": 2.2196261682
+    },
+    {
+      "stock_date": 1606348800000,
+      "stock_price": 354.85,
+      "drop_ratio_1_day": 1.3857142857,
+      "drop_ratio_1_month": 4.429075927
+    },
+    {
+      "stock_date": 1606435200000,
+      "stock_price": 350.5,
+      "drop_ratio_1_day": -1.225870086,
+      "drop_ratio_1_month": 4.9244125131
+    },
+    {
+      "stock_date": 1606780800000,
+      "stock_price": 352.85,
+      "drop_ratio_1_day": 0.6704707561,
+      "drop_ratio_1_month": 3.5661872615
+    },
+    {
+      "stock_date": 1606867200000,
+      "stock_price": 358.9,
+      "drop_ratio_1_day": 1.7146096075,
+      "drop_ratio_1_month": 7.1983273596
+    },
+    {
+      "stock_date": 1606953600000,
+      "stock_price": 360.3,
+      "drop_ratio_1_day": 0.3900808025,
+      "drop_ratio_1_month": 7.3439594816
+    },
+    {
+      "stock_date": 1607040000000,
+      "stock_price": 360.8,
+      "drop_ratio_1_day": 0.1387732445,
+      "drop_ratio_1_month": 5.2048403557
+    },
+    {
+      "stock_date": 1607299200000,
+      "stock_price": 358.45,
+      "drop_ratio_1_day": -0.6513303769,
+      "drop_ratio_1_month": 3.6731742589
+    },
+    {
+      "stock_date": 1607385600000,
+      "stock_price": 363.7,
+      "drop_ratio_1_day": 1.4646394197,
+      "drop_ratio_1_month": 5.1916124367
+    },
+    {
+      "stock_date": 1607472000000,
+      "stock_price": 359.5,
+      "drop_ratio_1_day": -1.1547979104,
+      "drop_ratio_1_month": 2.1451910783
+    },
+    {
+      "stock_date": 1607558400000,
+      "stock_price": 355.9,
+      "drop_ratio_1_day": -1.0013908206,
+      "drop_ratio_1_month": 3.9731229915
+    },
+    {
+      "stock_date": 1607644800000,
+      "stock_price": 353.5,
+      "drop_ratio_1_day": -0.6743467266,
+      "drop_ratio_1_month": 1.9466474405
+    },
+    {
+      "stock_date": 1607904000000,
+      "stock_price": 349.35,
+      "drop_ratio_1_day": -1.1739745403,
+      "drop_ratio_1_month": 1.5109690542
+    },
+    {
+      "stock_date": 1607990400000,
+      "stock_price": 352.7,
+      "drop_ratio_1_day": 0.9589237155,
+      "drop_ratio_1_month": 2.4843818103
+    },
+    {
+      "stock_date": 1608076800000,
+      "stock_price": 358.4,
+      "drop_ratio_1_day": 1.616104338,
+      "drop_ratio_1_month": 4.1406363504
+    },
+    {
+      "stock_date": 1608163200000,
+      "stock_price": 356.9,
+      "drop_ratio_1_day": -0.4185267857,
+      "drop_ratio_1_month": 2.351591626
+    },
+    {
+      "stock_date": 1608249600000,
+      "stock_price": 363.55,
+      "drop_ratio_1_day": 1.8632670216,
+      "drop_ratio_1_month": 5.2852591949
+    },
+    {
+      "stock_date": 1608508800000,
+      "stock_price": 353.95,
+      "drop_ratio_1_day": -2.6406271489,
+      "drop_ratio_1_month": 2.2090672827
+    },
+    {
+      "stock_date": 1608595200000,
+      "stock_price": 364.2,
+      "drop_ratio_1_day": 2.8958892499,
+      "drop_ratio_1_month": 5.1689286746
+    },
+    {
+      "stock_date": 1608681600000,
+      "stock_price": 385.55,
+      "drop_ratio_1_day": 5.8621636463,
+      "drop_ratio_1_month": 8.3462132921
+    },
+    {
+      "stock_date": 1608768000000,
+      "stock_price": 382.2,
+      "drop_ratio_1_day": -0.8688886007,
+      "drop_ratio_1_month": 7.5105485232
+    },
+    {
+      "stock_date": 1609113600000,
+      "stock_price": 382.9,
+      "drop_ratio_1_day": 0.1831501832,
+      "drop_ratio_1_month": 9.2439372325
+    },
+    {
+      "stock_date": 1609200000000,
+      "stock_price": 385.0,
+      "drop_ratio_1_day": 0.5484460695,
+      "drop_ratio_1_month": 9.8430813124
+    },
+    {
+      "stock_date": 1609286400000,
+      "stock_price": 384.4,
+      "drop_ratio_1_day": -0.1558441558,
+      "drop_ratio_1_month": 9.6718972896
+    },
+    {
+      "stock_date": 1609372800000,
+      "stock_price": 386.25,
+      "drop_ratio_1_day": 0.4812695109,
+      "drop_ratio_1_month": 10.1997146933
+    },
+    {
+      "stock_date": 1609459200000,
+      "stock_price": 388.1,
+      "drop_ratio_1_day": 0.4789644013,
+      "drop_ratio_1_month": 9.9900807709
+    },
+    {
+      "stock_date": 1609718400000,
+      "stock_price": 396.4,
+      "drop_ratio_1_day": 2.138624066,
+      "drop_ratio_1_month": 9.866962306
+    },
+    {
+      "stock_date": 1609804800000,
+      "stock_price": 406.3,
+      "drop_ratio_1_day": 2.4974772957,
+      "drop_ratio_1_month": 12.610864745
+    },
+    {
+      "stock_date": 1609891200000,
+      "stock_price": 406.4,
+      "drop_ratio_1_day": 0.0246123554,
+      "drop_ratio_1_month": 12.6385809313
+    },
+    {
+      "stock_date": 1609977600000,
+      "stock_price": 406.75,
+      "drop_ratio_1_day": 0.0861220472,
+      "drop_ratio_1_month": 13.4746826615
+    },
+    {
+      "stock_date": 1610064000000,
+      "stock_price": 430.2,
+      "drop_ratio_1_day": 5.7652120467,
+      "drop_ratio_1_month": 18.2843002475
+    },
+    {
+      "stock_date": 1610323200000,
+      "stock_price": 446.8,
+      "drop_ratio_1_day": 3.8586703859,
+      "drop_ratio_1_month": 26.3932107496
+    },
+    {
+      "stock_date": 1610409600000,
+      "stock_price": 457.7,
+      "drop_ratio_1_day": 2.4395702775,
+      "drop_ratio_1_month": 29.4766619519
+    },
+    {
+      "stock_date": 1610496000000,
+      "stock_price": 459.0,
+      "drop_ratio_1_day": 0.2840288399,
+      "drop_ratio_1_month": 29.8444130127
+    },
+    {
+      "stock_date": 1610582400000,
+      "stock_price": 454.35,
+      "drop_ratio_1_day": -1.0130718954,
+      "drop_ratio_1_month": 30.0558179476
+    },
+    {
+      "stock_date": 1610668800000,
+      "stock_price": 438.55,
+      "drop_ratio_1_day": -3.477495323,
+      "drop_ratio_1_month": 24.3407995464
+    },
+    {
+      "stock_date": 1610928000000,
+      "stock_price": 431.55,
+      "drop_ratio_1_day": -1.5961691939,
+      "drop_ratio_1_month": 18.704442305
+    },
+    {
+      "stock_date": 1611014400000,
+      "stock_price": 430.25,
+      "drop_ratio_1_day": -0.3012397173,
+      "drop_ratio_1_month": 18.3468573786
+    },
+    {
+      "stock_date": 1611100800000,
+      "stock_price": 444.95,
+      "drop_ratio_1_day": 3.4166182452,
+      "drop_ratio_1_month": 22.3903177005
+    },
+    {
+      "stock_date": 1611187200000,
+      "stock_price": 445.8,
+      "drop_ratio_1_day": 0.1910327003,
+      "drop_ratio_1_month": 25.9499929369
+    },
+    {
+      "stock_date": 1611273600000,
+      "stock_price": 444.75,
+      "drop_ratio_1_day": -0.2355316285,
+      "drop_ratio_1_month": 22.1169686985
+    },
+    {
+      "stock_date": 1611532800000,
+      "stock_price": 437.25,
+      "drop_ratio_1_day": -1.6863406408,
+      "drop_ratio_1_month": 14.4034536892
+    },
+    {
+      "stock_date": 1611705600000,
+      "stock_price": 446.45,
+      "drop_ratio_1_day": 2.1040594626,
+      "drop_ratio_1_month": 16.810570382
+    },
+    {
+      "stock_date": 1611792000000,
+      "stock_price": 431.9,
+      "drop_ratio_1_day": -3.2590435659,
+      "drop_ratio_1_month": 12.7970749543
+    },
+    {
+      "stock_date": 1611878400000,
+      "stock_price": 417.9,
+      "drop_ratio_1_day": -3.2414910859,
+      "drop_ratio_1_month": 8.5454545455
+    },
+    {
+      "stock_date": 1612137600000,
+      "stock_price": 421.5,
+      "drop_ratio_1_day": 0.8614501077,
+      "drop_ratio_1_month": 8.6060293739
+    },
+    {
+      "stock_date": 1612224000000,
+      "stock_price": 428.35,
+      "drop_ratio_1_day": 1.62514828,
+      "drop_ratio_1_month": 10.3710383922
+    },
+    {
+      "stock_date": 1612310400000,
+      "stock_price": 433.5,
+      "drop_ratio_1_day": 1.2022878487,
+      "drop_ratio_1_month": 11.6980159753
+    },
+    {
+      "stock_date": 1612396800000,
+      "stock_price": 429.9,
+      "drop_ratio_1_day": -0.830449827,
+      "drop_ratio_1_month": 8.4510595358
+    },
+    {
+      "stock_date": 1612483200000,
+      "stock_price": 425.55,
+      "drop_ratio_1_day": -1.011863224,
+      "drop_ratio_1_month": 4.737878415
+    },
+    {
+      "stock_date": 1612742400000,
+      "stock_price": 435.3,
+      "drop_ratio_1_day": 2.291152626,
+      "drop_ratio_1_month": 1.1854951185
+    },
+    {
+      "stock_date": 1612828800000,
+      "stock_price": 439.35,
+      "drop_ratio_1_day": 0.9303928325,
+      "drop_ratio_1_month": 2.1269177127
+    },
+    {
+      "stock_date": 1612915200000,
+      "stock_price": 439.0,
+      "drop_ratio_1_day": -0.0796631387,
+      "drop_ratio_1_month": 2.0455602046
+    },
+    {
+      "stock_date": 1613001600000,
+      "stock_price": 437.0,
+      "drop_ratio_1_day": -0.4555808656,
+      "drop_ratio_1_month": -2.1933751119
+    },
+    {
+      "stock_date": 1613088000000,
+      "stock_price": 442.0,
+      "drop_ratio_1_day": 1.1441647597,
+      "drop_ratio_1_month": -3.4301944505
+    },
+    {
+      "stock_date": 1613347200000,
+      "stock_price": 439.7,
+      "drop_ratio_1_day": -0.520361991,
+      "drop_ratio_1_month": 0.2622277961
+    },
+    {
+      "stock_date": 1613433600000,
+      "stock_price": 437.55,
+      "drop_ratio_1_day": -0.4889697521,
+      "drop_ratio_1_month": -0.2280241706
+    },
+    {
+      "stock_date": 1613520000000,
+      "stock_price": 430.2,
+      "drop_ratio_1_day": -1.6798080219,
+      "drop_ratio_1_month": -1.9040018242
+    },
+    {
+      "stock_date": 1613606400000,
+      "stock_price": 432.95,
+      "drop_ratio_1_day": 0.6392375639,
+      "drop_ratio_1_month": 0.3244120032
+    },
+    {
+      "stock_date": 1613692800000,
+      "stock_price": 429.95,
+      "drop_ratio_1_day": -0.6929206606,
+      "drop_ratio_1_month": -0.069726903
+    },
+    {
+      "stock_date": 1613952000000,
+      "stock_price": 418.7,
+      "drop_ratio_1_day": -2.6165833236,
+      "drop_ratio_1_month": -5.8572231591
+    },
+    {
+      "stock_date": 1614038400000,
+      "stock_price": 415.5,
+      "drop_ratio_1_day": -0.7642703606,
+      "drop_ratio_1_month": -6.5767284992
+    },
+    {
+      "stock_date": 1614124800000,
+      "stock_price": 423.1,
+      "drop_ratio_1_day": 1.8291215403,
+      "drop_ratio_1_month": -4.8679033165
+    },
+    {
+      "stock_date": 1614211200000,
+      "stock_price": 421.3,
+      "drop_ratio_1_day": -0.4254313401,
+      "drop_ratio_1_month": -3.6477987421
+    },
+    {
+      "stock_date": 1614297600000,
+      "stock_price": 410.3,
+      "drop_ratio_1_day": -2.6109660574,
+      "drop_ratio_1_month": -6.1635220126
+    },
+    {
+      "stock_date": 1614556800000,
+      "stock_price": 414.4,
+      "drop_ratio_1_day": 0.9992688277,
+      "drop_ratio_1_month": -1.684460261
+    },
+    {
+      "stock_date": 1614643200000,
+      "stock_price": 430.4,
+      "drop_ratio_1_day": 3.861003861,
+      "drop_ratio_1_month": 0.4785806
+    },
+    {
+      "stock_date": 1614729600000,
+      "stock_price": 435.5,
+      "drop_ratio_1_day": 1.1849442379,
+      "drop_ratio_1_month": 0.461361015
+    },
+    {
+      "stock_date": 1614816000000,
+      "stock_price": 438.8,
+      "drop_ratio_1_day": 0.757749713,
+      "drop_ratio_1_month": 2.0702488951
+    },
+    {
+      "stock_date": 1614902400000,
+      "stock_price": 420.85,
+      "drop_ratio_1_day": -4.0907019143,
+      "drop_ratio_1_month": -1.1044530607
+    },
+    {
+      "stock_date": 1615161600000,
+      "stock_price": 416.9,
+      "drop_ratio_1_day": -0.93857669,
+      "drop_ratio_1_month": -4.2269699058
+    },
+    {
+      "stock_date": 1615248000000,
+      "stock_price": 419.2,
+      "drop_ratio_1_day": 0.551691053,
+      "drop_ratio_1_month": -4.586320701
+    },
+    {
+      "stock_date": 1615334400000,
+      "stock_price": 426.7,
+      "drop_ratio_1_day": 1.7891221374,
+      "drop_ratio_1_month": -2.8018223235
+    },
+    {
+      "stock_date": 1615507200000,
+      "stock_price": 425.2,
+      "drop_ratio_1_day": -0.3515350363,
+      "drop_ratio_1_month": -3.8009049774
+    },
+    {
+      "stock_date": 1615766400000,
+      "stock_price": 426.35,
+      "drop_ratio_1_day": 0.2704609595,
+      "drop_ratio_1_month": -3.0361610189
+    },
+    {
+      "stock_date": 1615852800000,
+      "stock_price": 429.3,
+      "drop_ratio_1_day": 0.6919197842,
+      "drop_ratio_1_month": -1.8854988001
+    },
+    {
+      "stock_date": 1615939200000,
+      "stock_price": 419.65,
+      "drop_ratio_1_day": -2.2478453296,
+      "drop_ratio_1_month": -2.4523477452
+    },
+    {
+      "stock_date": 1616025600000,
+      "stock_price": 410.15,
+      "drop_ratio_1_day": -2.2637912546,
+      "drop_ratio_1_month": -5.2661970204
+    },
+    {
+      "stock_date": 1616112000000,
+      "stock_price": 410.5,
+      "drop_ratio_1_day": 0.0853346337,
+      "drop_ratio_1_month": -4.5237818351
+    },
+    {
+      "stock_date": 1616371200000,
+      "stock_price": 414.45,
+      "drop_ratio_1_day": 0.9622411693,
+      "drop_ratio_1_month": -1.0150465727
+    },
+    {
+      "stock_date": 1616457600000,
+      "stock_price": 415.5,
+      "drop_ratio_1_day": 0.2533478104,
+      "drop_ratio_1_month": 0.0
+    },
+    {
+      "stock_date": 1616544000000,
+      "stock_price": 411.0,
+      "drop_ratio_1_day": -1.083032491,
+      "drop_ratio_1_month": -2.8598440085
+    },
+    {
+      "stock_date": 1616630400000,
+      "stock_price": 399.65,
+      "drop_ratio_1_day": -2.7615571776,
+      "drop_ratio_1_month": -5.1388559221
+    },
+    {
+      "stock_date": 1616716800000,
+      "stock_price": 403.9,
+      "drop_ratio_1_day": 1.0634305017,
+      "drop_ratio_1_month": -1.5598342676
+    },
+    {
+      "stock_date": 1617062400000,
+      "stock_price": 418.1,
+      "drop_ratio_1_day": 3.5157217133,
+      "drop_ratio_1_month": 1.9010480136
+    },
+    {
+      "stock_date": 1617148800000,
+      "stock_price": 414.15,
+      "drop_ratio_1_day": -0.9447500598,
+      "drop_ratio_1_month": 0.9383378016
+    },
+    {
+      "stock_date": 1617235200000,
+      "stock_price": 416.4,
+      "drop_ratio_1_day": 0.5432814198,
+      "drop_ratio_1_month": 0.4826254826
+    },
+    {
+      "stock_date": 1617580800000,
+      "stock_price": 425.45,
+      "drop_ratio_1_day": 2.1733909702,
+      "drop_ratio_1_month": 1.0930260188
+    },
+    {
+      "stock_date": 1617667200000,
+      "stock_price": 427.15,
+      "drop_ratio_1_day": 0.3995769186,
+      "drop_ratio_1_month": 1.496970417
+    },
+    {
+      "stock_date": 1617753600000,
+      "stock_price": 438.0,
+      "drop_ratio_1_day": 2.5400913028,
+      "drop_ratio_1_month": 4.0750861352
+    },
+    {
+      "stock_date": 1617840000000,
+      "stock_price": 442.1,
+      "drop_ratio_1_day": 0.9360730594,
+      "drop_ratio_1_month": 6.0446150156
+    },
+    {
+      "stock_date": 1617926400000,
+      "stock_price": 450.1,
+      "drop_ratio_1_day": 1.8095453517,
+      "drop_ratio_1_month": 7.3711832061
+    },
+    {
+      "stock_date": 1618185600000,
+      "stock_price": 432.6,
+      "drop_ratio_1_day": -3.8880248834,
+      "drop_ratio_1_month": 1.7403574788
+    },
+    {
+      "stock_date": 1618272000000,
+      "stock_price": 418.95,
+      "drop_ratio_1_day": -3.1553398058,
+      "drop_ratio_1_month": -1.4698965193
+    },
+    {
+      "stock_date": 1618444800000,
+      "stock_price": 430.7,
+      "drop_ratio_1_day": 2.8046306242,
+      "drop_ratio_1_month": 1.0202884954
+    },
+    {
+      "stock_date": 1618531200000,
+      "stock_price": 469.2,
+      "drop_ratio_1_day": 8.9389366148,
+      "drop_ratio_1_month": 9.2941998602
+    },
+    {
+      "stock_date": 1618790400000,
+      "stock_price": 472.75,
+      "drop_ratio_1_day": 0.7566069906,
+      "drop_ratio_1_month": 15.1644336175
+    },
+    {
+      "stock_date": 1618876800000,
+      "stock_price": 470.1,
+      "drop_ratio_1_day": -0.5605499736,
+      "drop_ratio_1_month": 14.5188794153
+    },
+    {
+      "stock_date": 1619049600000,
+      "stock_price": 486.65,
+      "drop_ratio_1_day": 3.5205275473,
+      "drop_ratio_1_month": 17.420678007
+    },
+    {
+      "stock_date": 1619136000000,
+      "stock_price": 475.7,
+      "drop_ratio_1_day": -2.2500770574,
+      "drop_ratio_1_month": 14.4885679904
+    },
+    {
+      "stock_date": 1619395200000,
+      "stock_price": 480.3,
+      "drop_ratio_1_day": 0.9669960059,
+      "drop_ratio_1_month": 18.9155731617
+    },
+    {
+      "stock_date": 1619481600000,
+      "stock_price": 485.05,
+      "drop_ratio_1_day": 0.9889652301,
+      "drop_ratio_1_month": 20.0916068334
+    },
+    {
+      "stock_date": 1619568000000,
+      "stock_price": 489.3,
+      "drop_ratio_1_day": 0.8761983301,
+      "drop_ratio_1_month": 21.143847487
+    },
+    {
+      "stock_date": 1619654400000,
+      "stock_price": 489.85,
+      "drop_ratio_1_day": 0.1124054772,
+      "drop_ratio_1_month": 21.2800198069
+    },
+    {
+      "stock_date": 1619740800000,
+      "stock_price": 492.75,
+      "drop_ratio_1_day": 0.5920179647,
+      "drop_ratio_1_month": 17.854580244
+    }
+  ]
+}
